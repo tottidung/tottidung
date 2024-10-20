@@ -13,6 +13,19 @@
 
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌟 Dự án nổi bật
+
+Dưới đây là một số dự án mà tôi tự hào:
+
+1. **[Website Bán Sách](https://github.com/manhhoang8th4/CNPMNC_LT.git)**:  Ứng dụng cho phép người dùng mua sách và thực hiện thanh toán trực tuyến. **Tính năng chính**: Giỏ hàng, thanh toán an toàn, và quản lý người dùng.
+
+2. **[Website đặt phòng khách sạn](https://github.com/tottidung/IKIGAI.git)**:  Ứng dụng cho phép người dùng đặt phòng và thực hiện thanh toán trực tuyến.
+
+### 🌟 Dự án cá nhân
+
+1. **[Ứng dụng nghe nhạc](https://github.com/tottidung/Music.git)**: Xây dựng bằng HTML/CSS/JS, ứng dụng này giúp người dùng nghe nhạc giải trí
+---
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tottidung&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tottidung&theme=tokyonight&hide_border=false)<br/>
