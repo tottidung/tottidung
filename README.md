@@ -22,7 +22,7 @@ My proud project:
 
 2. **[Hotel booking website](https://github.com/tottidung/IKIGAI.git)**: The application allows users to book rooms and make payments online.
 
-### 🌟 Dự án cá nhân
+### 🌟 Personal Project
 
 1. **[Music listening application](https://github.com/tottidung/Music.git)**: Built with HTML/CSS/JS, this application helps users listen to music and have fun
 ---
