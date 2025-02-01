@@ -25,6 +25,7 @@ My proud project:
 ### 🌟 Personal Project
 
 1. **[Music listening application](https://github.com/tottidung/Music.git)**: Built with HTML/CSS/JS, this application helps users listen to music and have fun
+2. **[Pet ](https://github.com/tottidung/PetShop.git)**: Built with HTML/CSS/JS, Web to buy food for pets
 ---
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tottidung&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
