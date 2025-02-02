@@ -20,12 +20,13 @@ My proud project:
 
 1. **[Website Selling Books](https://github.com/manhhoang8th4/CNPMNC_LT.git)**: The application allows users to buy books and make payments online. 
 
-2. **[Hotel booking website](https://github.com/tottidung/IKIGAI.git)**: The application allows users to book rooms and make payments online.
-
 ### 🌟 Personal Project
 
 1. **[Music listening application](https://github.com/tottidung/Music.git)**: Built with HTML/CSS/JS, this application helps users listen to music and have fun
 2. **[Pet Shop](https://github.com/tottidung/PetShop.git)**: Built with HTML/CSS/JS, Web to buy food for pets
+3.**[Hotel booking website](https://github.com/tottidung/IKIGAI.git)**: The application allows users to book rooms and make payments online.
+4.**[Furniture selling web](https://github.com/tottidung/Furniture.git)**: Built with ReactJs/HTML/CSS/JS, The website is used to trade in furniture
+
 ---
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tottidung&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
