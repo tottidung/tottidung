@@ -21,7 +21,6 @@ My proud project:
 1. **[Website Selling Books](https://github.com/manhhoang8th4/CNPMNC_LT.git)**: The application allows users to buy books and make payments online. 
 
 ### 🌟 Personal Project
-
 1. **[Music listening application](https://github.com/tottidung/Music.git)**: Built with HTML/CSS/JS, this application helps users listen to music and have fun
 
 3. **[Pet Shop](https://github.com/tottidung/PetShop.git)**: Built with HTML/CSS/JS, Web to buy food for pets
