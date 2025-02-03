@@ -27,7 +27,7 @@ My proud project:
 
 3.**[Hotel booking website](https://github.com/tottidung/IKIGAI.git)**: The application allows users to book rooms and make payments online.
    
-4.**[Furniture selling web](https://github.com/tottidung/Furniture.git)**: Built with ReactJs/HTML/CSS/JS, The website is used to trade in furniture
+4.**[Furniture selling web](https://github.com/tottidung/Furniture.git)**: Built with ReactJs/HTML/TailWindCSS/JS, The website is used to trade in furniture
 
 ---
 # 📊GitHub Stats :
